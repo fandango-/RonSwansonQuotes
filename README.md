@@ -12,4 +12,4 @@ Because Ron Swanson is a hero. Uses the [quotes API](https://github.com/jamessea
 
 ## Installation Link
 
-[APK](https://drive.google.com/open?id=1junLAJuVliWoP5BtryIgnF9AqKFAK7Rx)
+[v1.0 APK](https://drive.google.com/open?id=1junLAJuVliWoP5BtryIgnF9AqKFAK7Rx)

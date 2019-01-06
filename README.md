@@ -9,3 +9,7 @@ Because Ron Swanson is a hero. Uses the [quotes API](https://github.com/jamessea
 ![screenshot_20190106-205514](https://user-images.githubusercontent.com/5292022/50741699-b4a0b900-1226-11e9-97e3-9f84ccce4aad.png)
 ![screenshot_20190106-205524](https://user-images.githubusercontent.com/5292022/50741700-b66a7c80-1226-11e9-90ff-8c7d25accadc.png)
 ![screenshot_20190106-205831](https://user-images.githubusercontent.com/5292022/50741701-b79ba980-1226-11e9-8af5-94e872c2142b.png)
+
+## Installation Link
+
+[APK](https://drive.google.com/open?id=1junLAJuVliWoP5BtryIgnF9AqKFAK7Rx)

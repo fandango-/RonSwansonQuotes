@@ -5,10 +5,10 @@ Because Ron Swanson is a hero. Uses the [quotes API](https://github.com/jamessea
 
 ## Screenshots
 
-![screenshot_20190106-205246](https://user-images.githubusercontent.com/5292022/50741697-b10d3200-1226-11e9-8b27-a8f7fed76f7b.png)
-![screenshot_20190106-205514](https://user-images.githubusercontent.com/5292022/50741699-b4a0b900-1226-11e9-97e3-9f84ccce4aad.png)
-![screenshot_20190106-205524](https://user-images.githubusercontent.com/5292022/50741700-b66a7c80-1226-11e9-90ff-8c7d25accadc.png)
-![screenshot_20190106-205831](https://user-images.githubusercontent.com/5292022/50741701-b79ba980-1226-11e9-8af5-94e872c2142b.png)
+![screenshot 9 jan 2019 11_58_56](https://user-images.githubusercontent.com/5292022/50898187-4fa3b980-1406-11e9-971a-e213e233f90d.png)
+![screenshot_20190109-114706](https://user-images.githubusercontent.com/5292022/50898190-503c5000-1406-11e9-92a2-f156cea6b765.png)
+![screenshot_20190109-114718](https://user-images.githubusercontent.com/5292022/50898193-503c5000-1406-11e9-9b68-27716c86c4f5.png)
+![screenshot_20190109-115304](https://user-images.githubusercontent.com/5292022/50898194-50d4e680-1406-11e9-8813-f65bf96721b2.png)
 
 ## Installation Link
 
